@@ -855,4 +855,9 @@ define(["exports","meta","require"],function(_exports,meta,_require){"use strict
     font-size: 30px;
     line-height: 64px;
   }
+  
+  img {
+  max-width: 100%;
+  height: auto;
+}
 `;_exports.SharedStyles=SharedStyles;var sharedStyles={SharedStyles:SharedStyles};_exports.$sharedStyles=sharedStyles});
